@@ -18,5 +18,5 @@ ollama pull mxbai-embed-large
 
 2. Run the Streamlit application:
    ```bash
-   uv run -m streamlit run app.py
+   uv run streamlit run app.py
    ```
